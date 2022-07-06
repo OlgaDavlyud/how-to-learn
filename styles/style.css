@@ -75,7 +75,7 @@ color: #2f80ed;
 .two-columns {
 display: flex;
 width: 80%;
-align-content: space-between;
+justify-content: space-between;
 margin: 100px auto;
 }
 
@@ -97,7 +97,7 @@ min-width: 784px;
 }
 
 .two-columns__paragraf {
-margin: 30px 0;
+margin: 30px 0 0 0;
 color: #000;
 line-height: 34px;
 font-size: 24px;
@@ -204,7 +204,7 @@ font-size: 36px;
 font-weight: normal;
 }
 
-.link {
+.feynman__link {
 position: absolute;
 top: 50%;
 right: 48px;
@@ -294,6 +294,8 @@ height: 32px;
 }
 
 .footer__author {
+margin-top: 18px;
+margin-bottom: 18px;
 line-height: 25px;
 font-size: 18px;
 font-weight: normal;
