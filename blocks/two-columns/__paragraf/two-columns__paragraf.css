@@ -1,0 +1,15 @@
+.two-columns__paragraf {
+    margin: 30px 0 0 0;
+    color: #000;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    }
+    
+    .two-columns__paragraf:first-child {
+      margin-top: 0;
+    }
+    
+    .two-columns__paragraf:last-child {
+      margin-bottom: 0;
+    }
