@@ -12,7 +12,6 @@
 
 @import url(./blocks/opacity/opacity.css);
 @import url(./blocks/rotation/rotation.css);
-@import url(./blocks/rotation/keyframes/keyframes.css);
 
 @import url(./blocks/section-title/section-title.css);
 @import url(./blocks/section-subtitle/section-subtitle.css);
@@ -76,7 +75,7 @@
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/columns/footer__columns.css);
 @import url(./blocks/footer/column/content/footer__column_content_copyright.css);
-@import url(./blocks/logo/place/logo_place_footer.css);
+@import url(./blocks/logo/place/logo-place__footer.css);
 @import url(./blocks/footer/author/footer__author.css);
 @import url(./blocks/footer/column/content/footer__column_content_info.css);
 @import url(./blocks/footer/column-heading/footer__column-heading.css);
