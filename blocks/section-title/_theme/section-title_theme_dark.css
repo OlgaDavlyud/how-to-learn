@@ -1,6 +1,6 @@
-.section-title_theme_dark {
-    margin: 90px auto 0;
-    color: #fff;
-    position: relative;
-    z-index: 2;
-    }
+.section__title-theme-dark {
+  margin: 90px auto 0;
+  color: #fff;
+  position: relative;
+  z-index: 2;
+}
